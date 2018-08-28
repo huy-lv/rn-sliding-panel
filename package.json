@@ -1,0 +1,23 @@
+{
+  "name": "rn-sliding-panel",
+  "version": "1.0.0",
+  "description": "Sliding panel for react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy-lv/rn-sliding-panel.git"
+  },
+  "keywords": [
+    "sliding",
+    "panel"
+  ],
+  "author": "huy-lv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huy-lv/rn-sliding-panel/issues"
+  },
+  "homepage": "https://github.com/huy-lv/rn-sliding-panel#readme"
+}
